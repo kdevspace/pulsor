@@ -2,7 +2,7 @@
   "name": "kdev/pulsor",
   "description": "Web app health monitoring",
   "require": {
-    "php": ">=7.4",
+    "php": ">=7.1",
     "ext-json": "*"
   }
 }
